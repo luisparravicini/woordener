@@ -7,7 +7,7 @@ import json
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-import woordener
+import woordener  # noqa: E402
 
 
 out_file = None
