@@ -1,0 +1,281 @@
+{{also|egg-plant|🍆}}
+==English==
+[[Image:Aubergine.jpg|thumb|right|An eggplant.]]
+[[File:Egg plant.JPG|thumb|White eggplant fruits, for whose resemblance to chicken eggs the plant is named]]
+
+===Alternative forms===
+* {{l|en|egg-plant}}
+
+===Etymology===
+{{compound|en|egg|plant}}, originally applied only to the white-colored variety.
+
+===Pronunciation===
+* {{audio|en-us-eggplant.ogg|Audio (US)|lang=en}}
+* {{audio|EN-AU ck1 eggplant.ogg|Audio (AU)|lang=en}}
+
+===Noun===
+{{en-noun|~}} {{tcx|North America|Australia|New Zealand|lang=en}}
+
+# {{lb|en|North America|Australia|New Zealand}} The plant ''[[Solanum melongena]]''.
+# {{lb|en|North America|Australia|New Zealand}} The edible fruit of the ''[[Solanum melongena]]'': an [[aubergine]].
+# {{lb|en|North America}} A dark [[purple]] color, like that of the skin of this fruit.
+#: {{color panel|990066}}
+# {{lb|en|US|slang|derogatory|offensive}} A [[black]] person {{lb|en|used mainly by Italian-Americans}}.
+#* {{quote-text|lang=en|year=2004|author=Wendy Coakley-Thompson|title=Back to Life|passage="Why am I not surprised?" This was the limit. "You know, I'm black enough for his family to yell '''eggplant'''-this and nigger-that at me," she said.}}
+#* '''2006''', Jerome Charyn, ''Raised by wolves: the turbulent art and times of Quentin Tarantino''
+#*: What else can he do? But Hopper continues his riff. "Sicilians still carry that nigger gene . . . Your ancestors are niggers. You're part '''eggplant'''."
+# {{lb|en|snowboarding}} A [[180]] [[backside]] [[rotated]] [[invert]] in which the front hand is [[plant]]ed on the [[lip]] of the [[halfpipe]] wall
+
+====Synonyms====
+* {{sense|the plant or its fruit}} {{l|en|aubergine}} {{qualifier|UK}}, {{l|en|brinjal}} {{qualifier|India|Malaysia}}, {{l|en|baingan}} {{qualifier|India}}, {{l|en|brown jolly}} {{qualifier|Caribbean|dated}}
+* {{sense|the fruit}} {{l|en|melongene}} {{qualifier|Caribbean}}
+
+====Derived terms====
+* {{taxlink|Eggplant mosaic virus|species|ver=180913}}
+
+====Translations====
+{{trans-top|plant}}
+* Afrikaans: {{t|af|eiervrug}}
+* Albanian: {{t+|sq|patëllxhan}}
+* Arabic: {{t|ar|بَاذِنْجَان}}
+*: Egyptian Arabic: {{t|arz|بدنجان|m|tr=bidingān|sc=Arab}}
+*: Hijazi Arabic: {{t|acw|باتنجان|m|tr=bātinjān|sc=Arab}}
+* Armenian: {{t+|hy|բադրիջան}}, {{t+|hy|սմբուկ}}
+*: Middle Armenian: {{t|axm|պատինճան}}
+* Assamese: {{t|as|বেঙেনা|sc=Beng}}
+* Asturian: {{t|ast|berenxena|f}}
+* Basque: {{t|eu|alberjinia}}, {{t+|eu|berenjena}}
+* Belarusian: {{t|be|баклажа́н|m}}
+* Bengali: {{t|bn|বার্তাকু}}
+* Bulgarian: {{t|bg|син дома́т|m}}, {{t|bg|патладжа́н|m}}
+* Catalan: {{t|ca|alberginiera|f}}
+* Chinese:
+*: Hakka: {{t|hak|茄仔|tr=khiò-é}}
+*: Mandarin: {{t+|cmn|茄子|tr=qiézi}}
+*: Min Nan: {{t+|nan|茄|tr=kiô}}
+* Crimean Tatar: {{t|crh|patılcan}}
+* Czech: {{t+|cs|lilek vejcoplodý|m}}, {{t|cs|baklažán|m}}
+* Danish: {{t+|da|aubergine|c}}
+* Dhivehi: {{t|dv|ބަށި|sc=Thaa}}
+* Dutch: {{t+|nl|aubergine|m}}, {{t|nl|eierplant|m}}, {{t|nl|eiervrucht|f}}
+* Esperanto: {{t|eo|melongeno}}
+* Finnish: {{t+|fi|munakoiso}}
+* French: {{t+|fr|aubergine|f}}
+* Georgian: {{t|ka|ბადრიჯანი}}
+* German: {{t+|de|Aubergine|f}}, {{t|de|Eierpflanze|f}}, {{t+|de|Eierfrucht|f}}, {{t+|de|Melanzani|f}} {{qualifier|Austria}}
+* Greek: {{t+|el|μελιτζάνα|f}}
+* Gujarati: {{t+|gu|રીંગણ}}, {{t|gu|વેંગણ}}
+* Hebrew: {{t+|he|חָצִיל|m|tr=hatsíl}}
+* Hindi: {{t+|hi|बैंगन|m}}, {{t+|hi|बतिया|f}}, {{t+|hi|भण्टा|m}}
+* Hungarian: {{t+|hu|padlizsán|c}}
+* Hunsrik: {{t|hrx|Bërinschela|f}}
+* Ido: {{t|io|berenjeniero}}
+* Indonesian: {{t+|id|terong}}
+* Irish: {{t|ga|ubhthoradh|m}}
+* Italian: {{t+|it|melanzana|f}}
+* Japanese: {{t+|ja|茄子|tr=なす, nasu}}, {{t|ja|ナス|tr=nasu}}
+* Kalmyk: {{t|xal|чеес}}
+* Kannada: {{t+|kn|ನೆಲಗುಳ್ಳ|sc=Knda}}
+* Korean: {{t+|ko|가지}}
+* Kurdish:
+*: Kurmanji: [[bacanê reş]]
+*: Sorani: {{t+|ku|بادمجان}}, {{t+|ku|باینجان}}
+* Kyrgyz: {{t+|ky|баклажан|sc=Cyrl}}
+* Lao: {{t|lo|ເຂືອຫຳມ້າ}}
+{{trans-mid}}
+* Latin: {{t|la|melongena|f}}
+* Lezgi: {{t|lez|бадамжан}}
+* Lü: {{t|khb|ᦖᦱᧅᦵᦃᦲ|sc=Talu}}
+* Macedonian: {{t|mk|патлиџан|m}}
+* Malay: {{t|ms|terung ungu}}
+* Malayalam: {{t+|ml|വഴുതന|sc=Mlym}}
+* Maltese: {{t|mt|brunġiela|f}}
+* Maori: {{t|mi|otahua  }}
+* Marathi: {{t+|mr|वांगी}}
+* Nahuatl: {{t|nah|tototexochitl}}, {{t|nah|camiltic xocotl}}
+* Navajo: {{t|nv|ayęęzhii yiltʼąąʼí}}
+* Nepali: {{t+|ne|बैजनी}}, {{t+|ne|भण्टा}}
+* Norman: {{t|nrf|aubèrginne|f}}
+* Norwegian: {{t|no|aubergine|c}}, {{t|no|eggplante}}, {{t|no|eggplanta}}
+* Oriya: {{t+|or|ବାଇଗଣ}}
+* Persian: {{t+|fa|بادنجان|tr=bâdenjân}}, {{t|fa|بادنگان|tr=bâdengân}}, {{t|fa|باتنگان|tr=bâtengân}}
+* Polish: {{t+|pl|bakłażan|m}}, {{t+|pl|oberżyna|f}}
+* Portuguese: {{t+|pt|berinjela|f}}
+* Punjabi: {{t+|pa|ਬੈਂਗਣ|m}}
+* Romanian: {{t+|ro|vânătă|f}}
+* Russian: {{t+|ru|баклажа́н|m}}
+* Sanskrit: {{t+|sa|वृन्ताक|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|патлиџан|m|sc=Cyrl}}, {{t|sh|баланцана|f}}, {{t|sh|меланцана|f}}
+*: Roman: {{t+|sh|patlidžan|m}}, {{t+|sh|balancana|f}}, {{t+|sh|melancana|f}}
+* Sicilian: {{t+|scn|milinciana|f}}
+* Slovak: {{t|sk|baklažán|m}}, {{t|sk|ľuľok|m}}
+* Slovene: {{t+|sl|jajčevec|m}}, {{t|sl|malancan|m}}, {{t|sl|malancana|f}}
+* Spanish: {{t+|es|berenjena|f}}
+* Swahili: {{t|sw|mbilingani}}
+* Swedish: {{t+|sv|aubergine|c}}, {{t+|sv|äggplanta|c}}
+* Tagalog: {{t|tl|talong}}
+* Tajik: {{t+|tg|боқлаҷон|sc=Cyrl}}, {{t+|tg|бодинҷон|sc=Cyrl}}
+* Tamil: {{t+|ta|கத்திரிக்காய்|sc=Taml}}
+* Telugu: {{t+|te|వంగ|sc=Telu}}
+* Thai: {{t+|th|มะเขือ}}
+* Turkish: {{t+|tr|patlıcan}}, {{t|tr|badincan}}
+* Turkmen: {{t+|tk|badamjan}}
+* Ukrainian: {{t+|uk|баклажа́н|m}}
+* Urdu: {{t|ur|بینگن|m|tr=baiṅgan}}, {{t|ur|بتیا|f|tr=batiyā}}, {{t|ur|بھنٹا|m|tr=bhaṇṭā|sc=Deva}}
+* Uzbek: {{t+|uz|baklajan}}, {{t+|uz|pontijon}}
+* Venetian: {{t+|vec|meƚansana|f}}
+* Vietnamese: {{t+|vi|cà}}
+* Yiddish: {{t|yi|פּאַטלעזשאַן|m}}
+* Zazaki: {{t|zza|baincan}}
+* Zhuang: {{t-needed|za}}
+{{trans-bottom}}
+
+{{trans-top|edible fruit}}
+* Abaza: {{t|abq|баклажа́н|sc=Cyrl}}
+* Abkhaz: {{t|ab|аҟандыл|sc=Cyrl}}, {{t|ab|абаклаџьан|sc=Cyrl}}
+* Albanian: {{t+|sq|patëllxhan}}
+* Arabic: {{t|ar|بَاذِنْجَان|m}}
+*: Egyptian Arabic: {{t|arz|بتنجانة|f|tr=betengāna|sc=Arab}}, {{t|arz|بتنجان|m-p|tr=betengān}}, {{t|arz|بدنجان|m-p|tr=bidingān}}, {{t|arz|برنجان|m-p|tr=berengan}}
+* Aragonese: {{t|an|alberxena|f}}
+* Armenian: {{t+|hy|բադրիջան}}, {{t+|hy|սմբուկ}}
+*: Middle Armenian: {{t|axm|պատինճան}}
+* Aromanian: {{t|rup|vinitâ|f}}
+* Assamese: {{t|as|বেঙেনা|sc=Beng}}
+* Assyrian Neo-Aramaic: {{t|aii|ܦܐܬܠܓܢ}}
+* Asturian: {{t|ast|berenxena|f}}
+* Azerbaijani: {{t+|az|badımcan}}
+*: Cyrillic: {{t|az|бадымҹан|sc=Cyrl}}
+* Basque: {{t|eu|alberjinia}}, {{t+|eu|berenjena}}
+* Belarusian: {{t|be|баклажа́н|m}}
+* Bengali: {{t|bn|বার্তাকু}}
+* Bislama: {{t|bi|obesin}}
+* Breton: {{t|br|berjinezenn|f}}
+* Bulgarian: {{t|bg|патладжа́н|m}}
+* Burmese: {{t+|my|ခရမ်း|sc=Mymr}}, {{t|my|ခရမ်းသီး}}
+* Catalan: {{t+|ca|albergínia|f}}
+* Central Dusun: {{t|dtp|bintorung}}
+* Chinese:
+*: Cantonese: {{t|yue|茄子|tr=ke4-2 zi2|sc=Hani}}, {{t|yue|矮瓜|tr=ai2 gwaa1|sc=Hani}}, {{t|yue|茄瓜|tr=ke4-2 gwaa1}}
+*: Hakka: {{t|hak|吊菜仔|tr=tiau-chhoi-é}}, {{t|hak|茄仔|tr=khiò-é}}
+*: Mandarin: {{t+|cmn|茄子|tr=qiézi|sc=Hani}}, {{t+|cmn|酪酥|tr=làosū, luòsū}}
+*: Min Nan: {{t|nan|紅菜|sc=Hani}}, {{t|nan|红菜|tr=âng-chhài|sc=Hani}}, {{t+|nan|茄|tr=kiô|sc=Hani}}, {{t|nan|紅茄|sc=Hani}}, {{t|nan|红茄|tr=âng-kiô|sc=Hani}}, {{t|nan|紅皮菜|sc=Hani}}, {{t|nan|红皮菜|tr=âng-phôe-chhài, âng-phê-chhài|sc=Hani}}
+* Corsican: {{t|co|melzana|f}}
+* Czech: {{t|cs|baklažán|m}}, {{t|cs|patližán|m}} {{qualifier|colloquial}}, {{t|cs|patlažán|m}} {{qualifier|colloquial}}, {{t+|cs|lilek|m}}
+* Danish: {{t+|da|aubergine|c}}
+* Dhivehi: {{t|dv|ބަށި|sc=Thaa}}
+* Dutch: {{t+|nl|aubergine|f}}, {{t|nl|eiervrucht}}
+* Dzongkha: {{t|dz|དོ་ལོམ|sc=Tibt}}, {{t|dz|དོ་ལོམ་ཤིང|sc=Tibt}}
+* Emilian: {{t|egl|melanzena|f}} {{qualifier|Bolognese}}
+* Esperanto: {{t|eo|melongeno}}
+* Estonian: {{t|et|baklažaan}}
+* Faroese: {{t|fo|eggfrukt|f}}
+* Finnish: {{t+|fi|munakoiso}}
+* French: {{t+|fr|aubergine|f}}
+* Friulian: {{t|fur|melanzane|f}}
+* Galician: {{t+|gl|berenxena|f}}
+* Georgian: {{t|ka|ბადრიჯანი}}
+* German: {{t+|de|Aubergine|f}}, {{t+|de|Eierfrucht|f}}, {{qualifier|Austrian}} {{t+|de|Melanzani}}
+* Greek: {{t+|el|μελιτζάνα|f}}
+* Gujarati: {{t+|gu|રીંગણ}}, {{t|gu|વેંગણ}}
+* Hebrew: {{t+|he|חָצִיל|m|tr=hatsíl}}
+* Hindi: {{t+|hi|बैंगन|m}}, {{t+|hi|बतिया|f}}, {{t+|hi|भण्टा|m}}
+* Hungarian: {{t+|hu|padlizsán}}
+* Icelandic: {{t|is|eggaldin|n}}
+* Ido: {{t+|io|berenjeno}}
+* Interlingua: {{t|ia|alberengina}}
+* Irish: {{t|ga|ubhthoradh|m}}
+* Italian: {{t+|it|melanzana|f}}
+* Japanese: {{t+|ja|茄子|tr=なす, nasu}}, {{t|ja|ナス|tr=nasu}}
+* Kalmyk: {{t|xal|чеес}}
+* Kannada: {{t+|kn|ಬದನೆ|sc=Knda}}, {{t+|kn|ಬಿಳಿಬದನೆ|sc=Knda}}, {{t+|kn|ನೆಲಗುಳ್ಳ|sc=Knda}}, {{t+|kn|ಗುಂಡು ಬದನೆಗಿಡ|sc=Knda}}
+* Kapampangan: {{t|pam|balasenas}}
+* Kashmiri: {{t|ks|वाँगुन्|tr=vāṅgun|sc=Deva}}
+* Kazakh: {{t+|kk|кәді|sc=Cyrl}}
+* Khmer: {{t|km|ក្រាមរមាស}}, {{t+|km|ខ្មួរ}}, {{t+|km|ត្រប់}}
+* Korean: {{t+|ko|가지}}
+* Kurdish:
+*: Kurmanji: {{t+|ku|bacanreş}}
+* Kyrgyz: {{t+|ky|баклажан|sc=Cyrl}}
+* Ladin: {{t|lld|melanzana|f}}
+* Lao: {{t|lo|ເຂືອຫຳມ້າ}}
+* Latin: {{t|la|melongena|f}}
+* Latvian: {{t|lv|baklažāns|m}}
+* Ligurian: {{t|lij|merenzana|f}} {{qualifier|Monégasque}}
+{{trans-mid}}
+* Limburgish: {{t+|li|oberzjien|f}}
+* Lithuanian: {{t|lt|baklažanas|m}}
+* Lombard:
+*: Eastern: {{t|lmo|meresgian|f}}, {{t|lmo|maresgian|f}}
+*: Western: {{t|lmo|maresà|f}}, {{t|lmo|maregià|f}}
+* Lower Sorbian: {{t|dsb|aubergina|f}}, {{t|dsb|oberžina|f}}
+* Luxembourgish: {{t+|lb|Aubergine|f}}
+* Lü: {{t|khb|ᦖᦱᧅᦵᦃᦲ|sc=Talu}}
+* Macedonian: {{t|mk|патлиџан|m}}
+* Malagasy: {{t+|mg|baranjely}}
+* Malay: {{t|ms|pokok terung ungu}}
+* Malayalam: {{t+|ml|വഴുതന|sc=Mlym}}, {{t+|ml|വഴുതനങ്ങ|sc=Mlym}}
+* Maltese: {{t|mt|brunġiel}}
+* Manx: {{t|gv|auberjeen}}
+* Maori: {{t|mi|otahua}}
+* Marathi: {{t+|mr|वांगे}}
+* Mazanderani: {{t|mzn|وینگوم|tr=vingum|sc=fa-Arab}}
+* Mongolian: {{t|mn|баклажан|sc=Cyrl}}
+* Navajo: {{t|nv|ayęęzhii yiltʼąąʼí}}
+* Neapolitan: {{t|nap|mulignana|f}}
+* Nepali: {{t+|ne|बैजनी}}, {{t+|ne|भण्टा}}
+* Norman: {{t|nrf|aubèrginne|f}}
+* Norwegian: {{t|no|aubergine|c}}, {{t|no|eggfrukt}}
+* Occitan: {{t+|oc|aubergina|f}}, {{t+|oc|merinjana|f}}
+* Oriya: {{t+|or|ବାଇଗଣ}}
+* Pashto: {{t+|ps|بادنجان|m|tr=bādanǰān}}, {{t|ps|بانجان|m|tr=bānǰān}}, {{t|ps|باټينګن|m|tr=bāṭingᶕn}}, {{t|ps|باټينګړ|m|tr=bāṭingᶕṛ}}
+* Persian: {{t+|fa|بادنجان|tr=bâdenjân}}, {{t|fa|بادنگان|tr=bâdengân}}, {{t|fa|باتنگان|tr=bâtengân}}
+* Picard: {{t|pcd|oubàrjine}}
+* Piedmontese: {{t|pms|marzana|f}}
+* Polish: {{t+|pl|bakłażan|m}}, {{t+|pl|oberżyna|f}}
+* Portuguese: {{t+|pt|beringela|f}}, {{t+|pt|berinjela|f}}
+* Punjabi: {{t+|pa|ਬੈਂਗਣ|m}}
+* Romanian: {{t+|ro|vânătă|f}}
+* Romansch: {{t|rm|oberschina|f}}
+* Russian: {{t+|ru|баклажа́н|m}}, {{t+|ru|си́ненький|m}} {{qualifier|colloquial}}, {{t|ru|бадриджа́н|m}}, {{t|ru|бубриджа́н|m}} {{qualifier|rare}}
+* Sanskrit: {{t+|sa|भण्टाकी}}
+* Sardinian: {{t|sc|melinzana|f}}, {{t|sc|pedringianu|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|патлиџан|m|sc=Cyrl}}
+*: Roman: {{t+|sh|patlidžan|m}}
+* Sicilian: {{t+|scn|milinciana|f}}
+* Slovak: {{t|sk|ľuľok|m}}, {{t|sk|baklažán|m}}
+* Slovene: {{t+|sl|jajčevec|m}}, {{t|sl|melancan|m}}
+* Spanish: {{t+|es|berenjena|f}}
+* Swahili: {{t|sw|bilingani}}
+* Swedish: {{t+|sv|aubergine|c}}, {{t+|sv|äggplanta|c}}
+* Tagalog: {{t|tl|talong}}
+* Tajik: {{t+|tg|боқлаҷон|sc=Cyrl}}, {{t+|tg|бодинҷон|sc=Cyrl}}
+* Tamil: {{t+|ta|கத்தரி|sc=Taml}}, {{t+|ta|கத்தரிக்காய்|sc=Taml}}
+* Tatar: {{t|tt|баклаҗан|sc=Cyrl}}
+* Telugu: {{t+|te|వంగ|sc=Telu}}, {{t+|te|వంకాయ|sc=Telu}}
+* Thai: {{t+|th|มะเขือ}}
+* Tibetan: {{t|bo|རྡོ་ལུ་མ།|sc=Tibt}}
+* Tigrinya: {{t|ti|መለንዛና|sc=Ethi}}
+* Turkish: {{t+|tr|patlıcan}}, {{t|tr|badincan}}
+* Turkmen: {{t+|tk|badamjan}}
+* Ukrainian: {{t+|uk|баклажа́н|m}}
+* Urdu: {{t|ur|بینگن|m|tr=baiṅgan}}, {{t|ur|بتیا|f|tr=batiyā}}, {{t|ur|بھنٹا|m|tr=bhaṇṭā|sc=ur-Arab}}
+* Uyghur: {{t|ug|پىدىگەن}}, {{t|ug|پېتىنگا}}, {{t|ug|پەتىنگان}}, {{t|ug|چەيزە}}
+* Uzbek: {{t+|uz|baqlajon}}
+* Venetian: {{t+|vec|meƚansana|f}}
+* Vietnamese: {{t|vi|cà tím}}
+* Volapük: {{t+|vo|berjen}}
+* Welsh: {{t|cy|wylys}}
+* West Frisian: {{t|fy|auberzjine}}
+* Yiddish: {{t|yi|פּאַטלעזשאַן|m}}
+* Zazaki: {{t|zza|baincan}}
+* Zhuang: {{t|za|lwggwz}}
+{{trans-bottom}}
+
+===References===
+* {{pedialite}}
+
+[[Category:en:Nightshades]]
+[[Category:en:Purples]]
+[[Category:en:Vegetables]]
