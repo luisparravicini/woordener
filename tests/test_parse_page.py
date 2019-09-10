@@ -35,7 +35,3 @@ class TestParsePage(unittest.TestCase):
             expected = load_article(path)
 
         return (article, expected)
-
-
-if __name__ == '__main__':
-    unittest.main()
