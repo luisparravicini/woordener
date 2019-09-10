@@ -1,4 +1,3 @@
-==Dutch==
 
 ===Pronunciation===
 * {{IPA|/ɦur/|[ɦuːr]|lang=nl}}
@@ -82,3 +81,6 @@ Originally [[onomatopoeic|onomatopoetic]], as is English {{m|en|burp}}. The perc
 ===Anagrams===
 * {{l|nl|bore}}
 * {{l|nl|ober}}
+
+----
+
