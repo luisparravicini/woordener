@@ -1,0 +1,17 @@
+==Dutch==
+{{wp|lang=nl}}
+===Etymology===
+Compound of {{compound|nl|boer|-en-|kool|t1=farmer|t3=cabbage}}.
+
+===Pronunciation===
+* {{IPA|/ˌbuːrə(n)ˈkoːl/|lang=nl}}
+* {{audio|Nl-boerenkool.ogg|Audio|lang=nl}}
+* {{hyphenation|lang=nl|boe|ren|kool}}
+
+===Noun===
+{{nl-noun|m|g2=f|boerenkolen|boerenkooltje}}
+
+# [[kale]]
+
+====Descendants====
+* {{desc|en|borecole|bor=1}}

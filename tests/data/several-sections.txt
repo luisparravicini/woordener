@@ -1,0 +1,182 @@
+{{also|Boer|bóer|bôer|bör|bœr|-boer}}
+==Afrikaans==
+
+===Pronunciation===
+* {{IPA|/bur/|lang=af}}
+
+===Etymology 1===
+{{PIE root|af|bʰuH}}
+From {{inh|af|nl|boer}}.
+
+====Noun====
+{{af-noun|boere|boertjie}}
+
+# {{l|en|farmer}}; [[peasant]]
+# {{lb|af|chess}} [[pawn]]; least valuable piece in chess
+#: {{syn|af|pion}}
+
+===Etymology 2===
+From {{inh|af|nl|boeren}}.
+
+====Verb====
+{{af-verb}}
+
+# to [[farm]]
+# to continuously encounter someone at a specific place
+#: {{ux|af|Hy '''boer''' daar by haar huis.|t=He '''is always there''' at her house.}}
+# to [[stay]]; to [[sojourn]]; to [[linger]]
+#: {{ux|af|Hy't die heel middag by daardie meisie '''geboer'''.|t=He '''stayed over''' at that girl['s place] the whole afternoon.}}
+#: {{ux|af|Moenie op 'n vraag '''boer''' nie.|t=Don't '''linger''' on a question.}}
+
+----
+
+==Danish==
+
+===Pronunciation===
+* {{IPA|/boːər/|[ˈb̥oːˀɐ]|lang=da}}
+
+===Etymology 1===
+{{PIE root|da|bʰuH}}
+From {{der|da|nl|boer}}.
+
+====Noun====
+{{da-noun|en|e}}
+
+# [[Boer]]
+
+=====Inflection=====
+{{da-noun-infl|en|e|ne}}
+
+=====Further reading=====
+* {{pedialite|lang=da}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Noun====
+{{head|da|noun form}}
+
+# {{indefinite plural of|bo|lang=da}}
+
+----
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|/ɦur/|[ɦuːr]|lang=nl}}
+* {{audio|Nl-boer.ogg|audio|lang=nl}}
+* {{rhymes|lang=nl|ur}}
+
+===Etymology 1===
+{{PIE root|nl|bʰuH}}
+From {{inh|nl|dum|bure}}, from {{inh|nl|odt|*būr}}, from {{inh|nl|gem-pro|*būraz||dweller, inhabitant}}, thus originally the same as modern {{m|nl|buur||neighbour}}. The form ''boer'' is that of many eastern dialects including {{cog|li|-}}, where Germanic ''-ū-'' has been retained as a back vowel. In early modern Dutch these two dialectal forms were adopted as semantically distinguished words. Cognate to Old English {{m|ang|būr}}, {{m|ang|ġebūr}} (whence English {{m|en|bower}}) and Old High German {{m|goh|būr}} (whence German {{m|de|Bauer}}).
+
+====Noun====
+{{nl-noun|m|-en|boertje|f=boerin}}
+
+# {{topics|nl|Occupations}} ([[male]]) [[farmer]], [[peasant]]
+#: {{syn|nl|bouwman}}
+#: {{hypo|nl|landbouwer|teler|tuinder|veehouder}}
+# {{lb|nl|in compounds}} [[merchant]] (and sometimes producer) of a certain product group, mainly foods, often named after it, e.g. [[melkboer]] '[[milkman]]', [[groenteboer]] '(male) [[greengrocer]]'
+# [[boor]], [[yokel]], [[ruffian]]
+# [[jack]] (playing card)
+
+=====Alternative forms=====
+* {{l|nl|bouwer}}
+
+=====Derived terms=====
+{{top4}}
+* {{l|nl|Boer}}
+* {{l|nl|boerachtig}}
+* {{l|nl|boerderij}}
+* {{l|nl|boeren}}
+* {{l|nl|groenteboer}}
+* {{l|nl|melkboer}}
+* {{l|nl|platenboer}}
+* {{l|nl|visboer}}
+* {{l|nl|boerenbond}}
+* {{l|nl|boerenbrood}}
+* {{l|nl|boerenfluit}}
+* {{l|nl|boerenjongen}}
+* {{l|nl|boerenkinkel}}
+* {{l|nl|boerenknecht}}
+* {{l|nl|boerenkool}}
+* {{l|nl|boerenlatijn}}
+* {{l|nl|boerenmarkt}}
+* {{l|nl|boerenpummel}}
+* {{l|nl|boerenstand}}
+* {{l|nl|boerenstiel}}
+* {{l|nl|boerenworst}}
+* {{l|nl|boerenzoon}}
+* {{l|nl|groenteboer}}
+* {{l|nl|hartenboer}}
+* {{l|nl|keuterboer}}
+* {{l|nl|klaverboer}}
+* {{l|nl|melkboer}}
+* {{l|nl|ruitenboer}}
+* {{l|nl|schoppenboer}}
+{{bottom}}
+
+=====Descendants=====
+* {{desc|af|boer}}
+* {{desc|srn|buru|bor=1}}
+
+===Etymology 2===
+Originally [[onomatopoeic|onomatopoetic]], as is English {{m|en|burp}}. The perception of farmers (etymology 1) as being mannerless people has probably played a secondary role, too. The same in German {{m|de|Bäuerchen}}.
+
+====Noun====
+{{nl-noun|m|-en|boertje}}
+
+# [[burp]]
+
+=====Derived terms=====
+* {{l|nl|boeren}}
+
+===Etymology 3===
+{{nonlemma}}
+
+====Verb====
+{{head|nl|verb form}}
+
+# {{nl-verb form of|p=1|n=sg|t=pres|m=ind|boeren}}
+# {{nl-verb form of|m=imp|boeren}}
+
+===Anagrams===
+* {{l|nl|bore}}
+* {{l|nl|ober}}
+
+----
+
+==Latin==
+
+===Pronunciation===
+* {{la-IPA|bo.er}}
+
+===Verb===
+{{la-verb-form|boer}}
+
+# {{inflection of|boō||1|s|pres|pasv|subj|lang=la}}
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+{{PIE root|nb|bʰuH}}
+From {{der|nb|nl|boer}}
+
+===Noun===
+{{nb-noun-m2}}
+
+# {{lb|nb|historical}} a {{l|en|Boer}}
+
+====Related terms====
+* {{l|nb|afrikander}}
+
+===See also===
+* {{l-nn|boar}}
+
+===References===
+* {{R:Dokpro|lang=nb}}
+
+[[Category:nb:Ethnicity]]
