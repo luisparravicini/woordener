@@ -14,6 +14,7 @@ class TestExtractor(unittest.TestCase):
             self.load_and_parse('extractor-not-wikitext')
             self.fail("exception expected")
         self.assertEqual(ctx.exception.format, 'text/blah')
+        self.assertEqual(ctx.exception.title, 'Wiktionary:Welcome, newcomers')
 
     def test_none(self):
         pages, expected = self.load_and_parse('extractor-none')
