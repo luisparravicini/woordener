@@ -10,8 +10,12 @@ def load_article(path):
 def parse_article(path):
     data = load_article(path)
     doc = wtp.parse(data)
-    section = next(x for x in doc.sections if x.title == 'Dutch')
-    return section.contents
+    sections = [x for x in doc.sections if x.title == 'Dutch']
+
+    result = None
+    if len(sections) > 0:
+        result = sections[0].contents
+    return result
 
 
 class TestParsePage(unittest.TestCase):
@@ -29,14 +33,17 @@ class TestParsePage(unittest.TestCase):
         self.assertEqual(article, expected)
 
     def test_no_dutch_section(self):
-        self.fail("implement it")
+        article, expected = self.load_and_parse('no-dutch')
+        self.assertEqual(article, expected)
 
     def load_and_parse(self, fname):
         path = Path(self.base_path).joinpath(fname + '.txt')
         article = parse_article(path)
 
         path = Path(self.base_path).joinpath(fname + '-expected.txt')
-        expected = load_article(path)
+        expected = None
+        if path.exists():
+            expected = load_article(path)
 
         return (article, expected)
 
