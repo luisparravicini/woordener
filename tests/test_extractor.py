@@ -1,8 +1,8 @@
 import unittest
 import yaml
-import copy
 from pathlib import Path
 import woordener
+
 
 class TestExtractor(unittest.TestCase):
 
@@ -10,9 +10,10 @@ class TestExtractor(unittest.TestCase):
         self.base_path = Path(__file__).parent.joinpath('data', 'xml')
 
     def test_not_in_wikitext(self):
-        with self.assertRaises(woordener.SectionFormatError):
+        with self.assertRaises(woordener.SectionFormatError) as ctx:
             self.load_and_parse('extractor-not-wikitext')
             self.fail("exception expected")
+        self.assertEqual(ctx.exception.format, 'text/blah')
 
     def test_none(self):
         pages, expected = self.load_and_parse('extractor-none')
@@ -25,7 +26,7 @@ class TestExtractor(unittest.TestCase):
     def load_and_parse(self, fname):
         path = Path(self.base_path).joinpath(fname + '.xml')
         pages = list()
-        collector = lambda x: pages.append(copy.copy(x))
+        collector = lambda title, section: pages.append((title, section))
         woordener.extract(path, collector)
 
         path = Path(self.base_path).joinpath(fname + '-expected.yaml')

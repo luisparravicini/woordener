@@ -1,8 +1,11 @@
 import wikitextparser as wtp
 from .page_handler import parse_xml
 
+
 class SectionFormatError(Exception):
-    pass
+    def __init__(self, format):
+        self.format = format
+
 
 def extract_section(data):
     doc = wtp.parse(data)
@@ -20,6 +23,9 @@ def extract(path, collector):
 
 
 def _prepare_section(page, collector):
-    if page.format != 'text/x-wiki':
-        raise SectionFormatError()
-    collector(page)
+    f = page.format
+    if f != 'text/x-wiki':
+        raise SectionFormatError(f)
+    section = extract_section(page.content)
+    if section is not None:
+        collector(page.title, section)
