@@ -22,7 +22,7 @@ class TestParsePage(unittest.TestCase):
 
     def setUp(self):
         # self.maxDiff = None
-        self.base_path = Path(__file__).parent.joinpath('data')
+        self.base_path = Path(__file__).parent.joinpath('data', 'page')
 
     def test_only_dutch_section(self):
         article, expected = self.load_and_parse('only-dutch')

@@ -1,0 +1,13 @@
+- !!python/object:test_parse_xml.Page
+  content: '{{shortcut|Project:About}}
+
+    Hello, and welcome!'
+  format: text/x-wiki
+  title: Wiktionary:Welcome, newcomers
+- !!python/object:test_parse_xml.Page
+  content: '==Dutch==
+
+    {{nl-noun|n|-en|kattenkruidje}}'
+  format: text/x-wiki
+  title: moestuin
+
