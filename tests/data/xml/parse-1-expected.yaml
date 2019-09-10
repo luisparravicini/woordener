@@ -1,10 +1,10 @@
-- !!python/object:test_parse_xml.Page
+- !!python/object:woordener.page_handler.Page
   content: '{{shortcut|Project:About}}
 
     Hello, and welcome!'
   format: text/x-wiki
   title: Wiktionary:Welcome, newcomers
-- !!python/object:test_parse_xml.Page
+- !!python/object:woordener.page_handler.Page
   content: '==Dutch==
 
     {{nl-noun|n|-en|kattenkruidje}}'
