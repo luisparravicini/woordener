@@ -3,10 +3,6 @@ from pathlib import Path
 import woordener
 
 
-def load_article(path):
-    return Path(path).read_text()
-
-
 class TestParsePage(unittest.TestCase):
 
     def setUp(self):
@@ -27,11 +23,14 @@ class TestParsePage(unittest.TestCase):
 
     def load_and_parse(self, fname):
         path = Path(self.base_path).joinpath(fname + '.txt')
-        article = woordener.extract_section(load_article(path))
+        article = woordener.extract_section(self.load_article(path))
 
         path = Path(self.base_path).joinpath(fname + '-expected.txt')
         expected = None
         if path.exists():
-            expected = load_article(path)
+            expected = self.load_article(path)
 
         return (article, expected)
+
+    def load_article(self, path):
+        return Path(path).read_text()

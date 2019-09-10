@@ -1,0 +1,50 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  
+  <page>
+    <title>Wiktionary:Welcome, newcomers</title>
+    <ns>4</ns>
+    <id>6</id>
+    <restrictions>edit=autoconfirmed:move=sysop</restrictions>
+    <revision>
+      <id>53296539</id>
+      <parentid>52392674</parentid>
+      <timestamp>2019-06-10T15:16:25Z</timestamp>
+      <contributor>
+        <username>Throne3d</username>
+        <id>1897822</id>
+      </contributor>
+      <minor />
+      <comment>Use of &quot;it's&quot; as a possessive</comment>
+      <model>wikitext</model>
+      <format>text/blah</format>
+      <text xml:space="preserve">{{shortcut|Project:About}}
+Hello, and welcome!</text>
+      <sha1>n8xl3bt20lh3j4tfgr7icnpph4liunk</sha1>
+    </revision>
+  </page>
+
+  <page>
+    <title>moestuin</title>
+    <ns>4</ns>
+    <id>6</id>
+    <restrictions>edit=autoconfirmed:move=sysop</restrictions>
+    <revision>
+      <id>53296539</id>
+      <parentid>52392674</parentid>
+      <timestamp>2019-06-10T15:16:25Z</timestamp>
+      <contributor>
+        <username>Throne3d</username>
+        <id>1897822</id>
+      </contributor>
+      <minor />
+      <comment>Use of &quot;it's&quot; as a possessive</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==Dutch==
+{{nl-noun|n|-en|kattenkruidje}}</text>
+      <sha1>n8xl3bt20lh3j4tfgr7icnpph4liunk</sha1>
+    </revision>
+  </page>
+
+</mediawiki>
+
