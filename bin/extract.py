@@ -4,7 +4,6 @@ import sys
 import os
 from pathlib import Path
 import json
-import time
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
@@ -15,6 +14,7 @@ out_file = None
 index = 0
 printed = 0
 frames = ['.', '·', '•', 'o', 'O']
+
 
 def collector(title, section):
     global out_file, index, printed, frames
