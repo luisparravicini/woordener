@@ -10,11 +10,8 @@ class TestExtractor(unittest.TestCase):
         self.base_path = Path(__file__).parent.joinpath('data', 'xml')
 
     def test_not_in_wikitext(self):
-        with self.assertRaises(woordener.SectionFormatError) as ctx:
-            self.load_and_parse('extractor-not-wikitext')
-            self.fail("exception expected")
-        self.assertEqual(ctx.exception.format, 'text/blah')
-        self.assertEqual(ctx.exception.title, 'Wiktionary:Welcome, newcomers')
+        pages, expected = self.load_and_parse('extractor-not-wikitext')
+        self.assertEqual(pages, expected)
 
     def test_none(self):
         pages, expected = self.load_and_parse('extractor-none')
