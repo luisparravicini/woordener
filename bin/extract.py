@@ -38,7 +38,10 @@ def update_spinner():
         index += 1
         if index >= len(frames):
             index = 0
-            print('.', end='')
+            # HACK: the output was stuck at the end of the
+            # first line, the two dots make it go down to
+            # another line
+            print('..', end='', flush=True)
 
 
 def collector(title, section):
