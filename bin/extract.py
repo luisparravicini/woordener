@@ -12,15 +12,24 @@ import woordener  # noqa: E402
 
 
 out_file = None
-
+index = 0
+printed = 0
+frames = ['.', '·', '•', 'o', 'O']
 
 def collector(title, section):
-    global out_file
+    global out_file, index, printed, frames
 
     out_file.write(json.dumps((title, section)))
     out_file.write("\n")
 
-    print('.', end='', flush=True)
+    print(f'{frames[index]}\x08', end='', flush=True)
+    printed += 1
+    if printed > 10:
+        printed = 0
+        index += 1
+        if index >= len(frames):
+            index = 0
+            print('.', end='')
 
 
 if len(sys.argv) < 3:
