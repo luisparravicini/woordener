@@ -1,14 +1,19 @@
 import wikitextparser as wtp
 from .page_handler import parse_xml
+import re
 
 
 def extract_section(data):
-    doc = wtp.parse(data)
-    sections = [x for x in doc.sections if x.title == 'Dutch']
+    # preliminary check.. don't know how much resources
+    # does wtp.parse use (and the dump is 5GB)
+    if 'Dutch' not in data:
+        return None
 
     result = None
-    if len(sections) > 0:
-        result = sections[0].contents
+    m = re.search(r'==Dutch==\s*(.+?)(?:\s+==[^=]|$)', data, re.DOTALL)
+    if m is not None:
+        result = m.group(1)
+
     return result
 
 
