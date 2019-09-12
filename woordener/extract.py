@@ -4,11 +4,6 @@ import re
 
 
 def extract_section(data):
-    # preliminary check.. don't know how much resources
-    # does wtp.parse use (and the dump is 5GB)
-    if 'Dutch' not in data:
-        return None
-
     result = None
     m = re.search(r'==Dutch==\s*(.+?)(?:\s+==[^=]|$)', data, re.DOTALL)
     if m is not None:
