@@ -1,4 +1,3 @@
-import wikitextparser as wtp
 from .page_handler import parse_xml
 import re
 
