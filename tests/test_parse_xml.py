@@ -4,6 +4,7 @@ import copy
 from pathlib import Path
 import woordener
 
+
 class TestParseXML(unittest.TestCase):
 
     def setUp(self):
