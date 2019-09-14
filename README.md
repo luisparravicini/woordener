@@ -7,5 +7,12 @@ They were tested with the [20190820 dump](https://dumps.wikimedia.org/enwiktiona
 
 It needs Python 3.7+.
 
+---
 
-As I started to see how to translate the wikipedia templates of each entry I realized the scope was way too much of what I expected, so this repo will remain as is, no more updates. Haven't tried it but [wiktextract](https://github.com/tatuylonen/wiktextract) seems to do what I wanted to do initially.
+**READ THIS**
+
+As I started to see how to translate the wikipedia templates of each entry I realized the scope is way bigger of what I expected for this project, so this repo will remain as is, no more updates.
+
+`words-all.txt.gz` is the extract list of words from the dump one entry in each line. Each line is a json.dump of each entry.
+
+Haven't tried it but [wiktextract](https://github.com/tatuylonen/wiktextract) seems to do what I wanted to do initially.
