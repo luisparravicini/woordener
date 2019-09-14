@@ -16,7 +16,7 @@ class TestTemplateVisitorTitle(unittest.TestCase):
         lang = 'nl'
         data = f'{{{{wikipedia|lang={lang}}}}}'
         title = 'woordenboek'
-        expected = f'<a href="https://{lang}.wikipedia.org/wiki/{title}">{title}</a>'
+        expected = f'<a href="https://wikipedia.org/wiki/{lang}:{title}">{title}</a>'
         v = woordener.TemplateWikipediaVisitor()
         self.assertEqual(v.visit(title, data), expected)
 
@@ -25,6 +25,6 @@ class TestTemplateVisitorTitle(unittest.TestCase):
         title = 'lens'
         template_title = 'lens (optiek)'
         data = f'{{{{wikipedia|{template_title}|lang={lang}}}}}'
-        expected = f'<a href="https://{lang}.wikipedia.org/wiki/{template_title}">{title}</a>'
+        expected = f'<a href="https://wikipedia.org/wiki/{lang}:{template_title}">{title}</a>'
         v = woordener.TemplateWikipediaVisitor()
         self.assertEqual(v.visit(title, data), expected)

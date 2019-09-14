@@ -34,7 +34,7 @@ class TemplateWikipediaVisitor(TemplateVisitor):
         else:
             link_title = title
 
-        link = f'<a href="https://{lang}.wikipedia.org/wiki/{link_title}">{title}</a>'
+        link = f'<a href="https://wikipedia.org/wiki/{lang}:{link_title}">{title}</a>'
         return link
 
 
